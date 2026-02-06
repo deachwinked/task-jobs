@@ -1,4 +1,4 @@
 <p>
 Hey,
-Send email from laravel ><
+Send email from laravel!
 </p>

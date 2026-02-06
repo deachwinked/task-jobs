@@ -1,6 +1,7 @@
 <p>
-Changes files
-=======
+Hey,
 Send email from laravel!
->>>>>>> feature/search
+</p>
+<p>
+Feature filter
 </p>
